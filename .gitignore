@@ -14,8 +14,8 @@ __pycache__/
 .ipynb_checkpoints
 
 # TensorFlow/Keras
-*.h5
-*.hdf5
+# *.h5
+# *.hdf5
 
 # Logs
 logs/
